@@ -1,0 +1,2 @@
+include ':app', ':riskafavoritfilm'
+rootProject.name='Riska Sub 3'
